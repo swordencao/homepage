@@ -1,2 +1,2 @@
 # sworden.me
-Personal blog
+Personal website
